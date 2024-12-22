@@ -8,7 +8,6 @@ This project contains two microservices:
 ## Project Structure
 - `todo_service/`: Code for the TODO service.
 - `short_url_service/`: Code for the Short URL service.
-- `docker-compose.yml`: (Optional) Configuration for Docker Compose to run both services together.
 - `README.md`: Project documentation.
 
 ## Getting Started
